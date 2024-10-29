@@ -2,7 +2,7 @@
 Polygon Bruteforce Node.js script that uses the cluster module to create multiple worker processes to generate random Polygon keypairs and check if the public address corresponding to the private key is in a Set of addresses read from data.txt 
 
 ## For people without technical experience you can buy the compiled application for windows from here:
-https://www.buymeacoffee.com/CorvusCodex/e/168264
+https://ko-fi.com/s/fe65451fa3
 
 
 ## Installation
